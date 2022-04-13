@@ -8,7 +8,7 @@ Lets scout the binary.
 
 Heres the exploit. 
 
-![image](https://user-images.githubusercontent.com/79220528/163264046-6bd4c64e-3219-44a3-b1a6-564c8461fa4a.png)
+![image](https://user-images.githubusercontent.com/79220528/163264625-6797bfe7-4e30-4f08-a431-4c9f2746d46d.png)
 
 
 
